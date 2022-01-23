@@ -54,4 +54,7 @@ body{
         width: auto;
         height: 350px;
     }
+    .ordering{
+        order: 2;
+    }
 }
