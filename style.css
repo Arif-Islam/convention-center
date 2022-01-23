@@ -1,9 +1,32 @@
 /* google fonts */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+body{
+    font-family: 'Poppins';
+}
 .brand-name{
     font-family: 'Poppins';
     font-size: 22px;
     color: #3E3E3E;
+}
+.book-now{
+    font-family: 'Poppins';
+    font-weight: 700;
+    /* width: 120px; */
+}
+.slider-head{
+    font-family: 'Poppins';
+    /* font-size: 70px; */
+    font-weight: 700;
+}
+
+@media only screen and (max-width:688px){
+    .carousel-item{
+        min-height: 350px;
+    }
+    .carousel-item img{
+        width: auto;
+        height: 350px;
+    }
 }
