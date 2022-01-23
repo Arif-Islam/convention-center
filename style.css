@@ -1,0 +1,9 @@
+/* google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+.brand-name{
+    font-family: 'Poppins';
+    font-size: 22px;
+    color: #3E3E3E;
+}
