@@ -12,8 +12,9 @@ body{
 }
 .book-now{
     font-family: 'Poppins';
-    font-weight: 700;
-    /* width: 120px; */
+    font-weight: 600!important;
+    width: 150px;
+    font-size: 22px!important;
 }
 .slider-head{
     font-family: 'Poppins';
