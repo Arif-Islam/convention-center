@@ -26,12 +26,21 @@ body{
     font-size: 30px!important;
     color: brown;
     background-color: rgba(255, 255, 255, 0.418);
-    /* box-shadow: 10px 10px 100px lightgrey; */
     font-family: 'Poppins';
     font-weight: 700;
     border: 1px dashed black;
 }
-
+.fa-bell{
+    font-size: 30px;
+}
+.fa-gift{
+    font-size: 30px;
+    color: #5243C2;
+}
+.toast-text{
+    font-size: 20px;
+    font-weight: 500;
+}
 .choose-plan{
     width: 207px;
     font-family: 'Poppins';
@@ -54,8 +63,6 @@ body{
 }
 .hot-card button{
     background-color: white!important;
-    /* font-family: 'Poppins';
-    font-weight: 500; */
 }
 footer{
     background: #0B0D17;
