@@ -21,6 +21,17 @@ body{
     /* font-size: 70px; */
     font-weight: 700;
 }
+.image-card{
+    text-align: center;
+    font-size: 30px!important;
+    color: brown;
+    background-color: rgba(255, 255, 255, 0.418);
+    /* box-shadow: 10px 10px 100px lightgrey; */
+    font-family: 'Poppins';
+    font-weight: 700;
+    border: 1px dashed black;
+}
+
 .choose-plan{
     width: 207px;
     font-family: 'Poppins';
