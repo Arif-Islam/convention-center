@@ -87,3 +87,8 @@ footer{
         order: 2;
     }
 }
+@media only screen and (min-width:689px) and (max-width:992px) {
+    .ordering-tab{
+        order: 2;
+    }
+}
